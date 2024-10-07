@@ -9,7 +9,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-rashid/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sy@mangotree.dev)
-  [![Behance Badge](https://img.shields.io/badge/Currículo-2F4F4F?style=for-the-badge&logo=google-docs&logoColor=white)](uploads/curriculo.pdf)
+  [![Behance Badge](https://img.shields.io/badge/Currículo-2F4F4F?style=for-the-badge&logo=google-docs&logoColor=white)](uploads/Currículo-Rian-Fonseca.pdf)
   
 </div>
 
@@ -17,17 +17,20 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## :bulb: Tecnologias & Ferramentas
 
 ### :heavy_check_mark: Front-end
-![Desenvolvimento de Front-end](https://img.shields.io/badge/-Desenvolvimento%20de%20Front--end-0052CC?style=for-the-badge&logo=frontend&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### :heavy_check_mark: Back-end
-![Desenvolvimento de Back-end](https://img.shields.io/badge/-Desenvolvimento%20de%20Back--end-008000?style=for-the-badge&logo=backend&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### :heavy_check_mark: Outras Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-**Github Stats:**
+## :chart_with_upwards_trend: Github Stats
 
 <p>
   
@@ -35,11 +38,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianFonsecaa&count_private=true&hide=html,css,ejs&theme=tokyonight">
 
 </p>
-
-
-
-
-<!---
-RianFonsecaa/RianFonsecaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
