@@ -9,7 +9,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-rashid/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sy@mangotree.dev)
-  [![Behance Badge](https://img.shields.io/badge/Currículo-2F4F4F?style=for-the-badge&logo=google-docs&logoColor=white)](uploads/Currículo-Rian-Fonseca.pdf)
+  [![Behance Badge](https://img.shields.io/badge/Currículo-2F4F4F?style=for-the-badge&logo=google-docs&logoColor=white)]([uploads/Currículo-Rian-Fonseca.pdf](https://github.com/user-attachments/files/17283518/Curriculo-Rian-Fonseca.pdf))
   
 </div>
 
