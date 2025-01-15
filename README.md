@@ -35,6 +35,6 @@
 <p>
   
   <img src="https://github-readme-stats.vercel.app/api?username=RianFonsecaa&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianFonsecaa&count_private=true&hide=html,css,ejs&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianFonsecaa&hide=javascript,scss&theme=tokyonight">
 
 </p>
